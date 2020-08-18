@@ -1,0 +1,13 @@
+C:\Users\N1\source\repos\snakeConsole\snakeConsole\bin\Debug\netcoreapp3.1\snakeConsole.exe
+C:\Users\N1\source\repos\snakeConsole\snakeConsole\bin\Debug\netcoreapp3.1\snakeConsole.deps.json
+C:\Users\N1\source\repos\snakeConsole\snakeConsole\bin\Debug\netcoreapp3.1\snakeConsole.runtimeconfig.json
+C:\Users\N1\source\repos\snakeConsole\snakeConsole\bin\Debug\netcoreapp3.1\snakeConsole.runtimeconfig.dev.json
+C:\Users\N1\source\repos\snakeConsole\snakeConsole\bin\Debug\netcoreapp3.1\snakeConsole.dll
+C:\Users\N1\source\repos\snakeConsole\snakeConsole\bin\Debug\netcoreapp3.1\snakeConsole.pdb
+C:\Users\N1\source\repos\snakeConsole\snakeConsole\obj\Debug\netcoreapp3.1\snakeConsole.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\snakeConsole\snakeConsole\obj\Debug\netcoreapp3.1\snakeConsole.csproj.CoreCompileInputs.cache
+C:\Users\N1\source\repos\snakeConsole\snakeConsole\obj\Debug\netcoreapp3.1\snakeConsole.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\snakeConsole\snakeConsole\obj\Debug\netcoreapp3.1\snakeConsole.AssemblyInfo.cs
+C:\Users\N1\source\repos\snakeConsole\snakeConsole\obj\Debug\netcoreapp3.1\snakeConsole.dll
+C:\Users\N1\source\repos\snakeConsole\snakeConsole\obj\Debug\netcoreapp3.1\snakeConsole.pdb
+C:\Users\N1\source\repos\snakeConsole\snakeConsole\obj\Debug\netcoreapp3.1\snakeConsole.genruntimeconfig.cache
